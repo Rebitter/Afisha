@@ -1,0 +1,12 @@
+{
+    "news1":{
+        "image": "/src/img/news__image.png",
+        "header": "Заголовок новости 1",
+        "text": "Текст новости 1"
+    },
+    "news2":{
+        "image": "/src/img/news__image2.png",
+        "header": "Заголовок новости 2",
+        "text": "Текст новости 2"
+    }
+}
